@@ -11,8 +11,9 @@ export default class App extends Component {
         <div className="slds-p-around--large">
           <h2 className="slds-text-heading--large slds-m-bottom--medium">Shopping Cart Example</h2>
           <ProductsContainer />
-          <hr/>
-          <CartContainer />
+          <div className="slds-m-top--large">
+            <CartContainer />
+          </div>
         </div>
       </div>
     )
