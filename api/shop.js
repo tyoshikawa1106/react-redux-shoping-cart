@@ -1,7 +1,7 @@
 /**
  * Mocking client-server processing
  */
-import _products from './products.json'
+//import _products from './products.json'
 
 const TIMEOUT = 100
 // HEROKUで動かす用
