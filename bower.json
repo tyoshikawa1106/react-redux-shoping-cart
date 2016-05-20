@@ -1,0 +1,21 @@
+{
+  "name": "react-shopping-cart",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "Taiki Yoshikawa"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tyoshikawa1106/",
+  "moduleType": [],
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "salesforce-lightning-design-system": "^1.0.4"
+  }
+}
